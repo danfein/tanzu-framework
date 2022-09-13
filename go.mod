@@ -18,7 +18,7 @@ retract [v1.4.0-pre-alpha-1, v1.4.0-pre-alpha-2]
 
 require (
 	cloud.google.com/go/storage v1.18.2
-	github.com/AlecAivazis/survey/v2 v2.3.5
+	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/Jeffail/gabs v1.4.0
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/Masterminds/semver v1.5.0
